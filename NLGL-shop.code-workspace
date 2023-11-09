@@ -4,6 +4,7 @@
       "path": "."
     }
   ],
+
   "settings": {
     //主题
     "workbench.colorTheme": "One Dark Pro",
@@ -27,6 +28,7 @@
       "pinia",
       "windi"
     ],
+
     // 这些文件将不会显示在工作空间中
     "files.exclude": {
       "**/.git": false,
